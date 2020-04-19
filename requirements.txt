@@ -1,5 +1,4 @@
 colorama
 Flask
 gunicorn
-Flask 
 SQLAlchemy
